@@ -8,14 +8,8 @@ A aplicação é uma página com um card exibindo a previsão do tempo. O front-
 
 ## Como executar
 
-#### Localmente
 ```bash
 source RUN.sh
-```
-
-#### No Play with Docker
-```bash
-source PLAYWITHDOCKER.sh
 ```
 ## Interface
 ![Screenshot da interface](docs/ui.png)
